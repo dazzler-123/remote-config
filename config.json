@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://api.company.com",
+  "baseUrl": "https://api.trusto.exchange",
   "environment": "production",
   "version": 1
 }
